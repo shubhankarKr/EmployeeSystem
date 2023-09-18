@@ -1,0 +1,6 @@
+[submodule "EmployeeSystemBackend"]
+	path = EmployeeSystemBackend
+	url = https://github.com/shubhankarKr/EmployeeSystemBackend.git
+[submodule "EmployeeSystemFrontend"]
+	path = EmployeeSystemFrontend
+	url = https://github.com/shubhankarKr/EmployeeSystemFrontend.git
